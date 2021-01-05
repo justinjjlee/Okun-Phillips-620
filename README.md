@@ -34,7 +34,7 @@ Sources:
 
 ### Consumer spending in retail
 <p align="left">
-  <img src="https://github.com/justinjoliver/pandemic-economic-update-charts/blob/a6d26cf31e496e2e05914b12ab32e5999dc32441/results/plt_retail.svg">
+  <img src="https://github.com/justinjoliver/pandemic-economic-update-charts/blob/main/results/plt_retail.svg">
 </p>
 
 ## Heterogeneous state and industry recovery
