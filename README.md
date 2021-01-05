@@ -1,4 +1,4 @@
-# Charts of economic activities - recovering from the 2020 pandemic
+# Charts of economic recovery - the 2020 pandemic
 Charting of economic indicators to observe trends in economic recovery 
 
 Data pulled using API for economic data, from the Federal Reserve Bank of St. Louis
