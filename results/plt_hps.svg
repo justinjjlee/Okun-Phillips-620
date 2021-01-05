@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="127mm" height="101.6mm" viewBox="0 0 127 101.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<defs>
+  <marker id="arrow" markerWidth="15" markerHeight="7" refX="5" refY="3.5" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L15,3.5 L0,7 z" stroke="context-stroke" fill="context-stroke"/>
+  </marker>
+</defs>
+<g class="plotroot yscalable" id="img-9d922da4-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-9d922da4-2">
+    <g transform="translate(57.03,89.99)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">Survey period (2020 Calendar year)</text>
+      </g>
+    </g>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-9d922da4-3">
+    <g transform="translate(30.98,83.32)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">Pre-pandemic</text>
+      </g>
+    </g>
+    <g transform="translate(57.03,83.32)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">Jul. 16 - Jul. 21</text>
+      </g>
+    </g>
+    <g transform="translate(83.07,83.32)">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.6em">Nov. 25 - Dec. 7</text>
+      </g>
+    </g>
+  </g>
+  <g class="guide colorkey" id="img-9d922da4-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-9d922da4-5">
+      <g transform="translate(99.91,43.66)" id="img-9d922da4-6" class="color_Less_than_$25,000">
+        <g class="primitive">
+          <text dy="0.35em">Less than $25,000</text>
+        </g>
+      </g>
+      <g transform="translate(99.91,47.28)" id="img-9d922da4-7" class="color_$25,000_-_$34,999">
+        <g class="primitive">
+          <text dy="0.35em">$25,000 - $34,999</text>
+        </g>
+      </g>
+    </g>
+    <g fill-opacity="1" id="img-9d922da4-8">
+      <g transform="translate(98,43.66)" id="img-9d922da4-9" fill="#00BFFF" class="color_Less_than_$25,000" stroke="#FFFFFF">
+        <path d="M-0.91,-0.91 L0.91,-0.91 0.91,0.91 -0.91,0.91  z" class="primitive"/>
+      </g>
+      <g transform="translate(98,47.28)" id="img-9d922da4-10" fill="#D4CA3A" class="color_$25,000_-_$34,999" stroke="#FFFFFF">
+        <path d="M-0.91,-0.91 L0.91,-0.91 0.91,0.91 -0.91,0.91  z" class="primitive"/>
+      </g>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-9d922da4-11">
+      <g transform="translate(97.09,39.84)" id="img-9d922da4-12">
+        <g class="primitive">
+          <text dy="-0em">Annual income</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g clip-path="url(#img-9d922da4-13)">
+    <g id="img-9d922da4-14">
+      <g pointer-events="visible" stroke-width="0.3" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-9d922da4-15">
+        <g transform="translate(57.03,43.66)" id="img-9d922da4-16">
+          <path d="M-39.07,-38.66 L39.07,-38.66 39.07,38.66 -39.07,38.66  z" class="primitive"/>
+        </g>
+      </g>
+      <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-9d922da4-17">
+        <g transform="translate(57.03,80.31)" id="img-9d922da4-18">
+          <path fill="none" d="M-39.07,0 L39.07,0 " class="primitive"/>
+        </g>
+        <g transform="translate(57.03,61.99)" id="img-9d922da4-19">
+          <path fill="none" d="M-39.07,0 L39.07,0 " class="primitive"/>
+        </g>
+        <g transform="translate(57.03,43.66)" id="img-9d922da4-20">
+          <path fill="none" d="M-39.07,0 L39.07,0 " class="primitive"/>
+        </g>
+        <g transform="translate(57.03,25.33)" id="img-9d922da4-21">
+          <path fill="none" d="M-39.07,0 L39.07,0 " class="primitive"/>
+        </g>
+        <g transform="translate(57.03,7)" id="img-9d922da4-22">
+          <path fill="none" d="M-39.07,0 L39.07,0 " class="primitive"/>
+        </g>
+      </g>
+      <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-9d922da4-23">
+        <g transform="translate(44,43.66)" id="img-9d922da4-24">
+          <path fill="none" d="M0,-38.66 L0,38.66 " class="primitive"/>
+        </g>
+        <g transform="translate(70.05,43.66)" id="img-9d922da4-25">
+          <path fill="none" d="M0,-38.66 L0,38.66 " class="primitive"/>
+        </g>
+      </g>
+      <g class="plotpanel" id="img-9d922da4-26">
+        <metadata>
+          <boundingbox value="17.95833333333333mm 5.0mm 78.135mm 77.315mm"/>
+          <unitbox value="0.5 35.54559094319034 3.0 -21.09118188638069"/>
+        </metadata>
+        <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" class="geometry" id="img-9d922da4-27">
+          <g transform="translate(57.03,26.07)" id="img-9d922da4-28" class="color_Less_than_$25,000" stroke="#00BFFF" stroke-dasharray="none">
+            <path fill="none" d="M-26.04,9.74 L0,-3.45 26.05,-6.28 " class="primitive"/>
+          </g>
+          <g transform="translate(57.03,58.7)" id="img-9d922da4-29" class="color_$25,000_-_$34,999" stroke="#D4CA3A" stroke-dasharray="none">
+            <path fill="none" d="M-26.04,5.76 L0,1.79 26.05,-7.55 " class="primitive"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-9d922da4-30">
+    <g transform="translate(16.96,80.31)" id="img-9d922da4-31">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">15</text>
+      </g>
+    </g>
+    <g transform="translate(16.96,61.99)" id="img-9d922da4-32">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">20</text>
+      </g>
+    </g>
+    <g transform="translate(16.96,43.66)" id="img-9d922da4-33">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">25</text>
+      </g>
+    </g>
+    <g transform="translate(16.96,25.33)" id="img-9d922da4-34">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">30</text>
+      </g>
+    </g>
+    <g transform="translate(16.96,7)" id="img-9d922da4-35">
+      <g class="primitive">
+        <text text-anchor="end" dy="0.35em">35</text>
+      </g>
+    </g>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-9d922da4-36">
+    <g transform="translate(8.81,41.66)" id="img-9d922da4-37">
+      <g class="primitive">
+        <text text-anchor="middle" dy="0.35em" transform="rotate(-90,0, 2)">Household with food shortage, percent</text>
+      </g>
+    </g>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-9d922da4-13">
+    <path d="M17.96,5 L96.09,5 96.09,82.32 17.96,82.32 " />
+  </clipPath>
+</defs>
+</svg>
