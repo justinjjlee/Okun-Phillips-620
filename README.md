@@ -22,9 +22,6 @@
   <img src="https://github.com/justinjoliver/pandemic-economic-update-charts/blob/a6d26cf31e496e2e05914b12ab32e5999dc32441/results/plt_retail.svg">
 </p>
 
-
-
-
 ## Heterogeneous state and industry recovery
 ### Changes in labor force participation rate by state
 <p align="left">
@@ -36,8 +33,16 @@
   <img src="https://github.com/justinjoliver/pandemic-economic-update-charts/blob/a6d26cf31e496e2e05914b12ab32e5999dc32441/results/map_unempdel.svg">
 </p>
 
-## Employment recovery for industry-dependent states
+### Employment recovery for industry-dependent states
 #### Nevada (Hospitality) and Texas (Oil & Gas)
 <p align="left">
   <img src="https://github.com/justinjoliver/pandemic-economic-update-charts/blob/a6d26cf31e496e2e05914b12ab32e5999dc32441/results/plt_emplystate.svg">
 </p>
+
+## Disparitas Americana
+### Growing food insecurity for low-income households with children during the 2020 Pandemic
+<p align="left">
+  <img src="https://github.com/justinjoliver/pandemic-economic-update-charts/blob/main/results/plt_hps.svg">
+</p>
+
+
