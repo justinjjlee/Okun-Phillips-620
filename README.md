@@ -1,4 +1,19 @@
 # pandemic-economic-update-charts
+Charting of economic indicators to observe trends in economic recovery 
+
+Data pulled using API for economic data, from the Federal Reserve Bank of St. Louis
+
+- [Federal Reserve Economic Database (FRED)](https://fred.stlouisfed.org/)
+- [Geographical Federal Reserve Economic Data (GeoFRED)](https://geofred.stlouisfed.org/)
+
+Sources:
+
+- Federal Reserve Bank of Dallas
+- Federal Reserve Bank of St. Louis
+- Lewis, Mertens, and Stock (2020) - [Data](https://www.dallasfed.org/research/wei), [Working Paper](https://www.newyorkfed.org/research/staff_reports/sr920)
+- U.S. Bureau of Economic Analysis
+- U.S. Bureau of Labor Statistics
+- U.S. Census Bureau - [Household Pulse Survey](https://www.census.gov/programs-surveys/household-pulse-survey/data.html)
 
 ## Macroeconomic recovery
 ### Economic output
