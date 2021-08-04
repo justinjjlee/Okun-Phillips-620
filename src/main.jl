@@ -4,7 +4,7 @@ using Gadfly, Cairo, Compose, VegaLite, VegaDatasets
 using CSV
 
 cd(@__DIR__)
-cd("C:\\Users\\justin_lee\\Desktop\\src")
+
 # Add Fred API key: 
 my_api_key = "-------------------------- USE YOUR FRED API KEY HERE --------------------------"
 api_fred = Fred(my_api_key);

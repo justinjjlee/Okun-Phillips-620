@@ -1,5 +1,5 @@
 # Activities through the lens of output, spending, and labor
-Charting of economic indicators to observe trends in economic recovery.
+Charting of economic indicators to observe trends in economic recovery. This code is used to construct extract, transform, and load (ETL) process.
 
 Analysis from the data sources also track changes in measurements, as Okun's Law and Phillips Curve (Spirit of the data visualization by [Ball et al. (2017)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.12420) and [Gordon (2020)](https://www.aeaweb.org/articles?id=10.1257/aer.100.2.11)).
 
